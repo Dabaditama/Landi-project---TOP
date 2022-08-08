@@ -1,0 +1,39 @@
+.top {
+    display: flex;
+    background-color: rgb(209, 209, 209);
+    border: 3px solid black;
+    height: 100px;
+    align-items: center;
+}
+
+.left-top{
+    border: 2px solid grey;
+    height: 75px;
+    width: 75px;
+    margin-left: 10px;
+}
+
+.right-top {
+    display: flex;
+    background: rgb(255, 219, 187);
+    height: 30px;
+    width: 300px;
+    border: 2px solid rgb(255, 174, 87);
+    display: flex;
+    gap: 75px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+.buton-top {
+    background: rgb(255, 122, 122);
+    border: 4px solid brown;
+    height: 20px;
+    width: 100px;
+}
+
+.middle {
+    
+}
